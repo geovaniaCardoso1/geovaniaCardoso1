@@ -11,8 +11,8 @@ um pouco de: linguagem Python, Java, JavaScript, projetos de faculdade e etc...
 
 Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊 
 
-Para acessar meu Linkedin <a href="www.linkedin.com/in/
-geovania-cardoso-96a047177">clique aqui</a>
+**[Clique aqui para acessar meu Linkedin] <a href="www.linkedin.com/in/
+geovania-cardoso-96a047177"></a>**
 
 
 ### Hey guys
