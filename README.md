@@ -9,4 +9,18 @@ Sou iniciante em programação e utilizo este espaço para mostrar um pouco dos 
 
 um pouco de: linguagem Python, Java, JavaScript, projetos de faculdade e etc... 
 
-Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊
+Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊 
+
+
+### Hey guys
+My name is Geovania Cardoso, I'm 22 years old and I live in São Paulo.
+
+I am currently studying Systems Analysis and Development at college.
+
+I really like studying and learning programming, so I chose this area because it allows me to constantly develop and evolve in what I like.
+
+I'm a beginner in programming and I use this space to show a little of my knowledge acquired through the projects I do and here you will find
+
+a little bit of: Python language, Java, JavaScript, college projects and etc...
+
+Feel free to enjoy the projects and welcome to my profile!
