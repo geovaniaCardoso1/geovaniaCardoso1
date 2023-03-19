@@ -1,4 +1,4 @@
-### Olá pessoal 👋😊
+### Olá pessoal 👋
 Me chamo Geovania Cardoso, tenho 22 anos e vivo em São Paulo.
 
 Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas.
@@ -11,7 +11,7 @@ um pouco de: linguagem Python, Java, JavaScript, projetos de faculdade e etc...
 
 Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊 
 
-<h4 align="center"><a href="https://www.linkedin.com/in/geovania-cardoso-96a047177/">Acesse meu linkedin <i> clicando aqui</i></h4>
+<h4 align="center"><a href="https://www.linkedin.com/in/geovania-cardoso-96a047177/">Acesse meu perfil do linkedin <i> clicando aqui</i></h4>
 
 
 
@@ -27,3 +27,5 @@ I'm a beginner in programming and I use this space to show a little of my knowle
 a little bit of: Python language, Java, JavaScript, college projects and etc...
 
 Feel free to enjoy the projects and welcome to my profile!
+  
+<h4 align="center"><a href="https://www.linkedin.com/in/geovania-cardoso-96a047177/">Access my profile of Linkedin <i> clicking here</i></h4>
