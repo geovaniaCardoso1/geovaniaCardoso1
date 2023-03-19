@@ -11,7 +11,7 @@ um pouco de: linguagem Python, Java, JavaScript, projetos de faculdade e etc...
 
 Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊 
 
-<h1 align="center">Acesse meu linkedin:<a href="https://www.linkedin.com/in/thiago-yukihiro-nakama-780789239/"> <i></i>
+<h1 align="center">Acesse meu linkedin:<a href="https://www.linkedin.com/in/thiago-yukihiro-nakama-780789239/"> <i></i></h1>
 
 
 
