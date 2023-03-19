@@ -7,6 +7,6 @@ Gosto muito de estudar e aprender programação, então escolhi essa área, pois
 
 Sou iniciante em programação e utilizo este espaço para mostrar um pouco dos meus conhecimentos adquiridos, através dos projetos que faço e por aqui você vai encontrar 
 
-um pouco de linguagem Python, Java, JavaScript, projetos de faculdade e etc... 
+um pouco de: linguagem Python, Java, JavaScript, projetos de faculdade e etc... 
 
 Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊
