@@ -1,13 +1,13 @@
 ### Olá pessoal 👋
-Me chamo Geovania Cardoso, tenho 22 anos e vivo em São Paulo.
+Me chamo Geovania Cardoso, tenho 23 anos e vivo em São Paulo.
 
-Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas.
+Atualmente estudo Análise e Desenvolvimento de Sistemas por conta própria.
 
-Gosto muito de estudar e aprender programação, então escolhi essa área, pois me proporciona a desenvolver e evoluir constantemente no que gosto.
+Gosto muito de estudar e aprender sobre programação, então escolhi essa área, pois me proporciona a desenvolver e evoluir constantemente no que gosto.
 
-Sou iniciante em programação e utilizo este espaço para mostrar um pouco dos meus conhecimentos adquiridos, através dos projetos que faço e por aqui você vai encontrar 
+Sou iniciante neste setor e utilizo este espaço para mostrar um pouco dos meus conhecimentos adquiridos, através dos projetos que faço e por aqui você vai encontrar 
 
-um pouco de: linguagem Python, Java, JavaScript, projetos de faculdade e etc... 
+um pouco de: linguagem Python, Java, JavaScript, projetos avulsos e etc... 
 
 Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊 
 
@@ -16,15 +16,15 @@ Fique á vontade para apreciar os projetos e seja bem vindo ao meu perfil! 😊
 
 
 ### Hey guys
-My name is Geovania Cardoso, I'm 22 years old and I live in São Paulo.
+My name is Geovania Cardoso, I'm 23 years old and I live in São Paulo.
 
-I am currently studying Systems Analysis and Development at college.
+I currently study Systems Analysis and Development on my own.
 
-I really like studying and learning programming, so I chose this area because it allows me to constantly develop and evolve in what I like.
+I really like studying and learning about programming, so I chose this area because it allows me to constantly develop and evolve in what I like.
 
-I'm a beginner in programming and I use this space to show a little of my knowledge acquired through the projects I do and here you will find
+I'm new to this sector and I use this space to show some of my acquired knowledge, through the projects I do and here you will find 
 
-a little bit of: Python language, Java, JavaScript, college projects and etc...
+a little bit of: Python, Java, JavaScript, separate projects, etc... 
 
 Feel free to enjoy the projects and welcome to my profile!
   
